@@ -1,0 +1,37 @@
+| Action                                        | Command                                              |
+| --------------------------------------------- | ---------------------------------------------------- |
+| Add file to staging area                      | git add <FILE_NAME>                                  |
+| Change remote URL                             | git remote set-url origin <URL>                      |
+| Create remote branch                          | git push -u origin <BRANCH_NAME>                     |
+| Clone a remote git repository                 | git clone <URL>                                      |
+| Delete a merged branch                        | git branch -d <BRANCH_NAME>                          |
+| Differences in two branches                   | git diff <BRANCH_A> <BRANCH_B>                       |
+| Fetch and Rebase                              | git pull --rebase                                    |
+| List changes since two weeks                  | git whatchanged --since=<TIME>                       |
+| List of all files changed in a commit         | git diff-tree --no-commit-id --name-only -r 'commit' |
+| List of all files till a commit               | git ls-tree --name-only -r 'commit'                  |
+| Lists all stashed changesets                  | git stash list                                       |
+| Merge branch with master                      | git merge <BRANCH_NAME>                              |
+| Push to diffent branch                        | git push origin <BRANCH_NAME>                        |
+| Quickly switch to the previous branch         | git checkout -                                       |
+| Rebase current HEAD                           | git rebase <BRANCH_NAME>                             |
+| Remove remote branch                          | git push origin --delete <BRANCH_NAME>               |
+| Rename a branch                               | git branch -m <NEW_NAME>                             |
+| Restore a stash                               | git stash apply 'stash'                              |
+| Revert a commit with new commit               | git revert 'commit'                                  |
+| Revert local changes in file                  | git checkout HEAD <FILE_NAME>                        |
+| See all merged branches                       | git branch --merged master                           |
+| See all unmerged branches                     | git branch --unmerged                                |
+| See everyday git examples                     | git help everyday                                    |
+| See who changed what in a file                | git blame <FILE_NAME>                                |
+| Set editor for commits                        | git config --global core.editor <EDITOR_NAME>        |
+| Set git alias                                 | git config --global alias.co commit                  |
+| Set user name                                 | git config --global user.name <USER_NAME>            |
+| Set user email                                | git config --global user.email <USER_EMAIL>          |
+| Show Remote Url                               | git config --get remote.origin.url                   |
+| Temporarily stores all modified tracked files | git stash                                            |
+| Undo all commits after                        | git reset 'commit'                                   |
+| Add a remote upstream repo                    | git remote add upstream <URL>                        |
+| Sync with remote upstream repo                | git pull upstream master                             |
+| Append new commit to keep single commits      | git commit -a --amend                                |
+| List branches of remote repo                  | git branch -r                                        |
