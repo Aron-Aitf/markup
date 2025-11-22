@@ -1,4 +1,7 @@
+# Tools
+
 - fish shell
+
   - configs
   - aliases
   - functions
