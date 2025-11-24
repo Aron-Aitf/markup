@@ -2,28 +2,33 @@
 
 ## Use ORMs not raw SQL:
 
-- ### SQL is hard to maintaining and makes messy code when constructing dynamic queries
+- SQL is hard to maintaining and makes messy code when constructing dynamic queries
 
-- ### The key is to use a ORM
+- The key is to use a ORM
 
-- ### query builders are acceptable but often a ORM is better
+- query builders are acceptable but often a ORM is better
 
-- ### This only applies to python, in rust SQLx is better
+- This only applies to python, in rust SQLx is better
 
 ## Avoid many files and folders in python:
 
-- ### Python imports are messy and hard to deal with
+- Python imports are messy and hard to deal with
 
-- ### so just minimize files
+- so just minimize files
 
-- ### Folders are even worse and are the main problem with python imports
+- Folders are even worse and are the main problem with python imports
 
-- ### This does not apply to rust
+- This does not apply to rust
 
 ## APIs are not easy to make in rust:
 
-- ### In rust api are challenging to make
+- In rust api are challenging to make
 
-- ### Databases are difficult but somewhat easier
+- Databases are difficult but somewhat easier
 
-- ### Instead of APIs make CLIs
+- Instead of APIs make CLIs
+
+## Git
+
+- commit small and often (every functional state is a commit)
+- branches are free (every option to solve a problem and every feature is a branch)
