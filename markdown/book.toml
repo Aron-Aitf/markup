@@ -2,3 +2,20 @@
 title = "markup"
 authors = ["Aron Atif"]
 language = "en"
+
+[rust]
+edition = "2021"
+
+[build]
+create-missing = false
+
+[output.html]
+mathjax-support = true
+smart-punctuation = true
+
+[output.html.playground]
+editable = false
+copyable = true
+copy-js = true
+line-numbers = true
+runnable = false
