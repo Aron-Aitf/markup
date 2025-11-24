@@ -1,6 +1,6 @@
 # Summary
 
-- [Table of Contents](index.md)
+- [Table of Contents](table_of_contents.md)
 - [Todos](todos.md)
 - [Tools](tools.md)
 - [Links](links.md)
