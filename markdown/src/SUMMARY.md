@@ -10,3 +10,4 @@
 - [Learning Plan](./documents/learning_plan.md)
 - [Things Learned](./documents/things_learned.md)
 - [Rust Tooling](./documents/rust_tooling.md)
+- [Keybindings](./documents/keybindings.md)

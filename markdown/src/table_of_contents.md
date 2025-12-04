@@ -11,3 +11,4 @@
 | [Learning Plan](./documents/documents/learning_plan.md)   | Important concepts to learn in python    |
 | [Things Learned](./documents/things_learned.md)           | Lessons learned from projects            |
 | [Rust Tooling](./documents/rust_tooling.md)               | Useful cargo tooling                     |
+| [Keybindings](./documents/keybindings.md)                 | Major Keybindings to learn               |
