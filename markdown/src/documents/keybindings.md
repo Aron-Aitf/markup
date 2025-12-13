@@ -9,6 +9,15 @@
 | `Alt + Right Arrow`             | Accept first word of suggestion               |
 | `Alt + C`                       | FZF fuzzy find files in current directory     |
 
+# Konsole
+
+| Keybinding                       | Effect                  |
+| -------------------------------- | ----------------------- |
+| `Ctrl + Shift + 9`               | Split pane vertically`  |
+| `Ctrl + Shift + 0`               | Split pane horizontally |
+| `Ctrl + Shift + W`               | Delete pane             |
+| `Shift + Left Arrow/Right Arrow` | Navigate tabs           |
+
 # Global
 
 | Keybinding   | Effect                  |
