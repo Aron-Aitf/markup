@@ -27,6 +27,3 @@
     - [ ] Hash-o-matic
     - [ ] Kommit
     - [ ] LabPlot
-    - [ ] Marknote
-    - [ ] ghostwriter
-    - [ ] KAlgebra
