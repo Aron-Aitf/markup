@@ -17,9 +17,3 @@
 | `Ctrl + Shift + 0`               | Split pane horizontally |
 | `Ctrl + Shift + W`               | Delete pane             |
 | `Shift + Left Arrow/Right Arrow` | Navigate tabs           |
-
-# Global
-
-| Keybinding   | Effect                  |
-| ------------ | ----------------------- |
-| `Ctrl + F11` | Open drop-down terminal |
