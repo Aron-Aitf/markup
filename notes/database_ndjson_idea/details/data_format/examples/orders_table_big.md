@@ -1,0 +1,13 @@
+`orders.ndjson`
+```json
+{"id":1,"first_name":"Emily","last_name":"Johnson","hair":{"color":"Brown","type":"Curly"},"role":"admin"}  
+{"id":2,"first_name":"Michael","last_name":"Williams","hair":{"color":"Green","type":"Straight"},"role":"admin"}  
+{"id":3,"first_name":"Sophia","last_name":"Brown","hair":{"color":"White","type":"Wavy"},"role":"admin"}  
+{"id":4,"first_name":"James","last_name":"Davis","hair":{"color":"Blonde","type":"Straight"},"role":"admin"}  
+{"id":5,"first_name":"Emma","last_name":"Miller","hair":{"color":"White","type":"Straight"},"role":"admin"}  
+{"id":6,"first_name":"Olivia","last_name":"Wilson","hair":{"color":"Gray","type":"Curly"},"role":"moderator"}  
+{"id":7,"first_name":"Alexander","last_name":"Jones","hair":{"color":"White","type":"Straight"},"role":"moderator"}  
+{"id":8,"first_name":"Ava","last_name":"Taylor","hair":{"color":"Red","type":"Kinky"},"role":"moderator"}  
+{"id":9,"first_name":"Ethan","last_name":"Martinez","hair":{"color":"Purple","type":"Curly"},"role":"moderator"}  
+{"id":10,"first_name":"Isabella","last_name":"Anderson","hair":{"color":"Blonde","type":"Curly"},"role":"moderator"}
+```

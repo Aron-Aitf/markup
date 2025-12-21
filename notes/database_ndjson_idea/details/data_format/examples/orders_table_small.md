@@ -1,0 +1,9 @@
+`orders.ndjson`
+```json
+{"id":1,"first_name":"Emily","last_name":"Johnson"}  
+{"id":2,"first_name":"Michael","last_name":"Williams"}  
+{"id":3,"first_name":"Sophia","last_name":"Brown"}  
+{"id":4,"first_name":"James","last_name":"Davis"}  
+{"id":5,"first_name":"Emma","last_name":"Miller"}  
+{"id":6,"first_name":"Olivia","last_name":"Wilson"}
+```

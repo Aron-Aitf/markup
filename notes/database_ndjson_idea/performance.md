@@ -1,0 +1,4 @@
+- this may not be as fast as a regular database, however the ndjson should make speeds tolerable
+- indexes are lacking
+- query optimizer may be difficult
+- [[language|rust]] will help with speed

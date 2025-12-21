@@ -2,7 +2,7 @@
 
 ## Rust:
 
-- ## Optimized cargo.toml
+- ## Optimized Cargo.toml
 
 ```toml
 [profile.release]
@@ -29,7 +29,7 @@ use clap::{Parser, value_parser};
 pub enum CliArguments {}
 ```
 
-- ## Clippy config 
+- ## Clippy config
 
 ```rust
 #![warn(

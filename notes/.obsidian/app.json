@@ -1,0 +1,10 @@
+{
+  "strictLineBreaks": false,
+  "showLineNumber": false,
+  "rightToLeft": false,
+  "userIgnoreFilters": [
+    "markdown/book/"
+  ],
+  "alwaysUpdateLinks": true,
+  "livePreview": false
+}

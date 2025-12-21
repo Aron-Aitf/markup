@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"09220bc9c51c8905","type":"group","x":-2960,"y":-720,"width":3080,"height":2040,"color":"4","label":"main"},
+		{"id":"8a23c3ec9f188ecf","type":"group","x":-2800,"y":-600,"width":1460,"height":1811,"color":"2","label":"details"},
+		{"id":"f94766061b865573","type":"group","x":-1200,"y":-600,"width":1120,"height":1811,"color":"5","label":"project information"},
+		{"id":"4a13bd4fbc3deb9c","type":"group","x":-2640,"y":-445,"width":1160,"height":1555,"color":"6","label":"data format"},
+		{"id":"ec2eeac3435b3b25","type":"file","file":"database_ndjson_idea/details/data_format/objects.md","x":-2493,"y":-425,"width":400,"height":490},
+		{"id":"68c2d313a95abf89","type":"file","file":"database_ndjson_idea/details/data_format/folder_structure.md","x":-2443,"y":290,"width":300,"height":160},
+		{"id":"c7d19274b9559b52","type":"file","file":"database_ndjson_idea/details/data_format/format.md","x":-1920,"y":-270,"width":400,"height":180},
+		{"id":"8de109cab68b37a6","type":"file","file":"database_ndjson_idea/details/data_format/examples/orders_table_small.md","x":-2560,"y":710,"width":535,"height":281},
+		{"id":"0df59f7a46b5756d","type":"file","file":"database_ndjson_idea/performance.md","x":-1120,"y":710,"width":400,"height":400},
+		{"id":"055fd11475a47efc","type":"file","file":"database_ndjson_idea/language.md","x":-560,"y":50,"width":400,"height":350},
+		{"id":"9d84f96d7f68d8af","type":"file","file":"database_ndjson_idea/project.md","x":-840,"y":-485,"width":410,"height":215},
+		{"id":"e5897b281c8f854d","type":"file","file":"database_ndjson_idea/goals.md","x":-1120,"y":50,"width":400,"height":510}
+	],
+	"edges":[
+		{"id":"ba98e875d2e8a7ae","fromNode":"c7d19274b9559b52","fromSide":"left","toNode":"ec2eeac3435b3b25","toSide":"right"},
+		{"id":"bde6b714a6c090c8","fromNode":"68c2d313a95abf89","fromSide":"bottom","toNode":"8de109cab68b37a6","toSide":"top"},
+		{"id":"36b3562720b44b39","fromNode":"ec2eeac3435b3b25","fromSide":"bottom","toNode":"68c2d313a95abf89","toSide":"top"},
+		{"id":"65d90f05cc69413a","fromNode":"e5897b281c8f854d","fromSide":"bottom","toNode":"0df59f7a46b5756d","toSide":"top"},
+		{"id":"ef3d4db725c91bf2","fromNode":"ec2eeac3435b3b25","fromSide":"right","toNode":"0df59f7a46b5756d","toSide":"left"},
+		{"id":"0c878fb21cbe6160","fromNode":"9d84f96d7f68d8af","fromSide":"bottom","toNode":"e5897b281c8f854d","toSide":"top"},
+		{"id":"948a65b119e51bf0","fromNode":"9d84f96d7f68d8af","fromSide":"bottom","toNode":"055fd11475a47efc","toSide":"top"}
+	]
+}
